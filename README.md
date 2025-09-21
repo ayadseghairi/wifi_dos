@@ -27,7 +27,7 @@ sudo apt install aircrack-ng wireless-tools iw
 1. Clone or download the code:
 ```bash
 git clone <repository-url>
-cd wif
+cd wifi_dos
 ```
 
 2. Ensure Python3 is available:
